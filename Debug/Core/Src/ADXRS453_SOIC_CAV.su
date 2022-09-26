@@ -1,0 +1,8 @@
+../Core/Src/ADXRS453_SOIC_CAV.c:23:13:bigToSmallEndian	16	static
+../Core/Src/ADXRS453_SOIC_CAV.c:29:13:checkFaultData	16	static
+../Core/Src/ADXRS453_SOIC_CAV.c:38:9:ADXRS453_findParityBit	24	static
+../Core/Src/ADXRS453_SOIC_CAV.c:51:9:ADXRS453_getTemperature	4	static
+../Core/Src/ADXRS453_SOIC_CAV.c:57:9:ADXRS453_startUpSequence	16	static
+../Core/Src/ADXRS453_SOIC_CAV.c:127:9:ADXRS453_cmd_sensorData	32	static
+../Core/Src/ADXRS453_SOIC_CAV.c:176:19:SPI_TransmitReceive	48	static
+../Core/Src/ADXRS453_SOIC_CAV.c:306:14:ADXRS453_decode_sensor_Data	16	static
